@@ -1,0 +1,9 @@
+{
+  "has_pdl": false,
+  "module": "scan",
+  "pattern": "fuse_pat1",
+  "source": "/home/dhakshayini/ARM/Sep29/build/source-files",
+  "timestamp": "2026-09-30T11:31:43Z",
+  "type": "debug",
+  "user": "dhakshayini"
+}
